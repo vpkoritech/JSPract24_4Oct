@@ -13,5 +13,7 @@ then(function () {
     console.log('Success, You are a GEEK');
 }).
 catch(function () {
-    console.log('Some error has occurred');hi[]
+    console.log('Some error has occurred');
 });
+
+console.log('Commit..');
